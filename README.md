@@ -78,7 +78,7 @@ technologies to meet future requirements.</br>
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/manav-bansal-37b462206/)
 
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akankushjnvku" alt="Ankush's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=akankushjnvku&show_icons=true&theme=radical" alt="Ankush's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akankushjnvku&layout=compact)](https://github.com/anuraghazra/github-readme-stats" /></a> | 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manub4458" alt="Ankush's github stats" /></a> | <a href="https://github.com/manub4458/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=manub4458&show_icons=true&theme=radical" alt="Manav's github stats" /></a> | <a href="https://github.com/manub4458/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akankushjnvku&layout=compact)](https://github.com/manub4458/github-readme-stats" /></a> | 
 
 
 
