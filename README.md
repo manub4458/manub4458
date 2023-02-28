@@ -13,7 +13,7 @@ I am an intermediate back-end developer, graphic and Adobe designer working for 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akankushjnvku&label=Profile%20views&color=32CD32&style=flat" alt="akankushjnvku" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
-
+<!--
 ### `Coding Profiles:`
 [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&amp;labelColor=black&amp;logo=leetcode&amp;logoColor=orange)](https://leetcode.com/akankushjnvku/)
 [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-darkgreen?style=flat&amp;labelColor=white&amp;logo=geeksforgeeks&amp;logoColor=darkgreen)](https://auth.geeksforgeeks.org/user/akankush2000/profile)
@@ -25,7 +25,7 @@ I am an intermediate back-end developer, graphic and Adobe designer working for 
 [![CodingNinjas](https://img.shields.io/badge/-CodingNinjas-orange?style=flat&amp;labelColor=white&amp;logo=codingninjas&amp;logoColor=orange)](https://www.codingninjas.com)
 [![Connect on StackOverflow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat&amp;labelColor=white&amp;logo=StackOverflow&amp;logoColor=FE7A16)](https://stackoverflow.com)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-blue?style=flat&amp;labelColor=white&amp;logo=kaggle&amp;logoColor=blue)](https://www.kaggle.com)
-
+-->
 - 🌱 I’m currently in love with <b>Web development</b>
 - 🔭 Simultaneously exploring <b>Web3</b>
 - 💬 Ask me about **Web Development** , **Open Source Contributions** and **Internships**
