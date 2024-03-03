@@ -18,7 +18,7 @@ I am an intermediate Front-end developer. I am always enthusiastic about new cre
 - 🔭 Simultaneously exploring <b>Web3</b> <br>
 - 💬 Ask me about **Web Development** , **Open Source Contributions** and **Internships** <br>
 - 👯 I’m looking to collaborate on **Open Source Projects** <br>
-- 📫 Reach me at : **manav7895060556@gmail.com**  <br>
+- 📫 Reach me at : **thebansalmanav@gmail.com**  <br>
 - ⚡ Fun fact: I love designing and travelling to explore new places. <br>
 - ❤️ Building a community to make an impact by training new generations on cutting edge \
 technologies to meet future requirements.<br>
